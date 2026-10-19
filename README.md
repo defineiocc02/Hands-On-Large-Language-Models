@@ -1,14 +1,13 @@
+# Hands-On-Large-Language-Models
+
+![状态](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-fork-8250df?style=flat-square) ![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E6%95%99%E6%9D%90%E4%BB%A3%E7%A0%81-6e7781?style=flat-square) ![技术栈](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E6%A0%88-Jupyter-6e7781?style=flat-square) ![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-MIT-2ea043?style=flat-square)
+
 > **这是 fork** · 上游：[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 > 本地增量：仅阅读参考，无代码改动（以本仓库提交记录为准）。
 > 同步策略：不主动跟进；需要时用 GitHub 的 Sync fork。
 
----
-
 ﻿# Hands-On Large Language Models
 
-<a href="https://www.linkedin.com/in/jalammar/"><img src="https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/mgrootendorst/"><img src="https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin"></a>
-<a href="https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner"><img src="https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&labelColor=black&color=red.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAuMDAwMzY1MjgxIC0wLjAwMDE0MDE0MiAzMy4yOSAzMy4xNSI+Cgk8cGF0aCBkPSJNMTYuNjQzIDMzLjE0NWMtMy4yOTIgMC02LjUxLS45NzItOS4yNDYtMi43OTNhMTYuNTg4IDE2LjU4OCAwIDAxLTYuMTMtNy40MzhBMTYuNTA3IDE2LjUwNyAwIDAxLjMyIDEzLjM0YTE2LjU1IDE2LjU1IDAgMDE0LjU1NS04LjQ4NUExNi42NjUgMTYuNjY1IDAgMDExMy4zOTYuMzE4YTE2LjcxIDE2LjcxIDAgMDE5LjYxNi45NDQgMTYuNjI4IDE2LjYyOCAwIDAxNy40NyA2LjEwMyAxNi41MjIgMTYuNTIyIDAgMDEyLjgwNCA5LjIwN2MwIDQuMzk2LTEuNzUzIDguNjEtNC44NzQgMTEuNzE5YTE2LjY4IDE2LjY4IDAgMDEtMTEuNzY5IDQuODU0em0uMTI1LTYuNjI4YzYuOTA2IDAgMTIuNTE3LTUuNjk4IDEyLjUxNy0xMi43MyAwLTcuMDMtNS42MS0xMi43MjUtMTIuNTE3LTEyLjcyNS02LjkwNiAwLTEyLjUxNyA1LjY5OC0xMi41MTcgMTIuNzI1IDAgNy4wMjcgNS42MTEgMTIuNzMgMTIuNTE3IDEyLjczem0tLjEyNS0yLjkxOGMtNi4yODkgMC0xMS4zODYtNC45MjUtMTEuMzg2LTExLjAwMkM1LjI1NyA2LjUyIDEwLjM2IDEuNTkgMTYuNjQzIDEuNTljNi4yODQgMCAxMS4zODYgNC45MyAxMS4zODYgMTEuMDA3cy01LjA5NyAxMS4wMDItMTEuMzg2IDExLjAwMnptLS4yNDItNC41MDhjNC43NyAwIDguNjMzLTMuNjc5IDguNjMzLTguMjE4IDAtNC41MzgtMy44ODUtOC4yMjEtOC42MzMtOC4yMjEtNC43NDcgMC04LjYzMiAzLjY3OS04LjYzMiA4LjIyMSAwIDQuNTQzIDMuODg1IDguMjE4IDguNjMyIDguMjE4eiIgZmlsbD0iI0ZENEE2MSIvPgo8L3N2Zz4="></a>
 
 Welcome! In this repository you will find the code for all examples throughout the book [Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) written by [Jay Alammar](https://www.linkedin.com/in/jalammar/) and [Maarten Grootendorst](https://www.linkedin.com/in/mgrootendorst/) which we playfully dubbed: <br> 
 
